@@ -1,0 +1,6 @@
+rust/target/
+zig/collatz.exe
+zig/collatz.pdb
+resultados.txt
+__pycache__/
+*.pdb
